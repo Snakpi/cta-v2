@@ -1,4 +1,5 @@
-# cta-v2
+# cta-backend
+
 Collaborative Todo App v2.0 
 
 <h2>Stack</h2>:
