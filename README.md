@@ -1,17 +1,8 @@
-# cta-backend
-
-Collaborative Todo App v2.0 
+# Backend of Round-Fr
 
 <h2>Stack</h2>:
 
-- Docker, Docker-Compose to run containers (database + app server)
-
-Backend:
-
+- Docker, Docker-compose to run containers (database + app server)
 - FastAPI for routing and sending responses and data
-- Postgres
-
-
-Frontend:
-
-- React.js
+- Facebook's unofficial Python SDK
+- PostgreSQL
